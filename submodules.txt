@@ -1,0 +1,11 @@
+https://github.blog/2016-02-01-working-with-submodules/
+
+Neccessary:
+  git clone --recursive
+  git submodule update
+
+
+git version 2.37.0 (Apple Git-136)
+  git submodule update # nothing updated.
+  git pull --recurse-submodule # nothing updated.
+
