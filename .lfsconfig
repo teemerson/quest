@@ -1,0 +1,3 @@
+[lfs]
+url = "ssh://git@cyberitaslfspoc.southcentralus.cloudapp.azure.com:1339/artifactory/quest"
+
